@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update WakaTime stats
-        uses: athul/waka-readme@v1.0.3  # ✅ 최신 버전으로 수정!
+        uses: athul/waka-readme@v0.3.1  # ✅ 최신 버전으로 수정!
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
