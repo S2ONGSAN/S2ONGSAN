@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+
+```txt
+Java             1 hr 20 mins    ███████████████████████▓░   94.92 %
+Other            4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```
+
 <!--END_SECTION:waka-->
