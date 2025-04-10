@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 44 mins    ██████████████████████░░░   88.18 %
-Other            13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Java             1 hr 44 mins    █████████████████████▓░░░   86.62 %
+Other            15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
