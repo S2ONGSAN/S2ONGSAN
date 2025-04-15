@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java    54 mins         ███████████▓░░░░░░░░░░░░░   46.39 %
-C       41 mins         ████████▓░░░░░░░░░░░░░░░░   35.25 %
-Other   21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Java    1 hr 8 mins     █████████████░░░░░░░░░░░░   52.26 %
+C       41 mins         ████████░░░░░░░░░░░░░░░░░   31.39 %
+Other   21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
 ```
 
 <!--END_SECTION:waka-->
