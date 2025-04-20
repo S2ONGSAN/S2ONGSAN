@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             3 hrs 14 mins   █████████████████▓░░░░░░░   70.99 %
-C                41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Other            37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java             3 hrs 14 mins   ███████████████████▓░░░░░   78.51 %
+C                30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Other            22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
